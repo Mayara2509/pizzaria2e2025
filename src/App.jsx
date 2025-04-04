@@ -30,7 +30,7 @@ function App(){
             else
               alert(props.nome + ' idade é ' + props.idade )}}      
         >
-          CLIQUE AQUI
+          NÃO CLIQUE AQUI
         </button>
       </div>
     )
