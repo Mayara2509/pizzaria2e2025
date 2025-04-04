@@ -30,7 +30,7 @@ function App(){
             else
               alert(props.nome + ' idade é ' + props.idade )}}      
         >
-          NÃO CLIQUE AQUI
+          CLIQUE AQUI
         </button>
       </div>
     )
@@ -47,6 +47,10 @@ function App(){
       <Formulario nome="Maria" sombra = "Digite sua idade..."/>
       <Formulario nome= "Mayara" sombra = "Digite seu time..."/>
       <Formulario nome= "Bruno" sombra = "valor de pi"/>
+      <Formulario nome="Maria" sombra = "Digite sua idade..."/>
+      <Formulario nome= "Mayara" sombra = "Digite seu time..."/>
+      <Formulario nome= "Bruno" sombra = "valor de pi"/>
+    
  
     </div>
   )
